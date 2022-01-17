@@ -1,4 +1,3 @@
-# shoppingCart
 Project - Products Management
 Key points
 
